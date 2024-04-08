@@ -2,9 +2,9 @@
 
 # Final Project : System's Integration
 
-## Welcome to the GitHub Repository of Ronit Shahu!
+## Welcome to the GitHub Repository of Utkarsh Nipane!
 
-This repository houses the code for our innovative project. Whether you're looking to contribute or simply explore, we're thrilled to have you here!
+This repository houses the code for our innovative project. Whether you're looking to contribute or simply explore, I'm thrilled to have you here!
 
 ---
 
@@ -81,7 +81,7 @@ To test the model, use the file name:
 ```bash
 Medicine data.txt
 ```
-Since the data inside is used from Harvard's NLP dataset (n2c2 Challenge), it has been carefully extracted so as not to reveal any sensitive data (HIPAA Compliance). Unfortunatly more data cannot be revealed to maintain the NDA.
+Since the data inside is used from Harvard's NLP dataset (n2c2 Challenge), it has been carefully extracted so as not to reveal any sensitive data (HIPAA Compliance). Unfortunately, more data cannot be revealed to maintain the NDA.
 
 ---
 
@@ -91,6 +91,6 @@ Your contributions are what make the community such an amazing place to learn, i
 
 ---
 
-We hope this guide helps you get started with "Final Project : System's Integration". Happy coding!
+I hope this guide helps you get started with "Final Project : System's Integration". Happy coding!
 
 ---
