@@ -91,6 +91,6 @@ Your contributions are what make the community such an amazing place to learn, i
 
 ---
 
-I hope this guide helps you get started with "Final Project : System's Integration". Happy coding!
+I hope this guide helps you get started with "Project : MedEx - Advanced Medical Named Entity Recognition System". Happy coding!
 
 ---
